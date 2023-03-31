@@ -37,5 +37,5 @@
  </a>
 </div>
 
-![Snake animation](https://github.com/milena-cordeiro.git/milena-cordeiro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/milena-cordeiro/milena-cordeiro/blob/output/github-contribution-grid-snake.svg)
 
