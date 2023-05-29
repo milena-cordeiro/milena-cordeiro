@@ -26,12 +26,6 @@
  <a href="https://www.linkedin.com/in/milena-cordeiro-b37565157/" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
-  <a href="mcs9823@gmail.com" target="_blank">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
- </a>
- <a href="https://www.instagram.com/_feitoa2dois/" target="_blank">
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
- </a>
  <a href="https://www.facebook.com/milena.c.dossantos.9" target="_blank">
  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
  </a>
