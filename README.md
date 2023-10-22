@@ -33,4 +33,4 @@
 
 ##
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/milena-cordeiro/output/github-contribution-grid-snake.svg)
