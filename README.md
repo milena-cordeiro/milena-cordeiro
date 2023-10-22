@@ -33,4 +33,4 @@
 
 ##
 
-![Snake animation](https://raw.githubusercontent.com/milena-cordeiro/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/milena-cordeiro/milena-cordeiro/blob/output/github-contribution-grid-snake2.svg)
